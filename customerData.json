@@ -5,14 +5,15 @@
     "CreatedBy": "Harry",
     "LastModified": "2016-12-02T09:45:04.303",
     "LastModifiedBy": "Harry",
-    "FirstName": "Lloriss",
+    "FirstName": "Lloris",
     "LastName": "Karius",
     "DOB": "2016-12-02T09:45:04.303",
     "Active": true,
     "Street": "1 Liverpool Street",
     "CityID": 1009,
     "PostCode": 620,
-    "CountryID": 1005
+    "CountryID": 1005,
+    "Goals": 0
   },
   {
     "CustomerID": 356,
@@ -27,7 +28,8 @@
     "Street": "2 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 2
   },
   {
     "CustomerID": 357,
@@ -42,7 +44,8 @@
     "Street": "3 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 1
   },
   {
     "CustomerID": 358,
@@ -57,7 +60,8 @@
     "Street": "5 Liverpool Street",
     "CityID": 1006,
     "PostCode": 205,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 1
   },
   {
     "CustomerID": 359,
@@ -72,7 +76,8 @@
     "Street": "6 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 2
   },
   {
     "CustomerID": 360,
@@ -87,7 +92,8 @@
     "Street": "7 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 6
   },
   {
     "CustomerID": 361,
@@ -102,7 +108,8 @@
     "Street": "10 Liverpool Street",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 20
   },
   {
     "CustomerID": 362,
@@ -117,7 +124,8 @@
     "Street": "11 Liverpool Street",
     "CityID": 1008,
     "PostCode": 40,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 11
   },
   {
     "CustomerID": 363,
@@ -132,7 +140,8 @@
     "Street": "15 Liverpool Street",
     "CityID": 1008,
     "PostCode": 50,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 45
   },
   {
     "CustomerID": 364,
@@ -147,7 +156,8 @@
     "Street": "14 Liverpool Street",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 24
   },
   {
     "CustomerID": 365,
@@ -162,7 +172,8 @@
     "Street": "12 Liverpool Street",
     "CityID": 1007,
     "PostCode": 119,
-    "CountryID": 1008
+    "CountryID": 1008,
+    "Goals": 0
   },
   {
     "CustomerID": 366,
@@ -177,7 +188,8 @@
     "Street": "4 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 2
   },
   {
     "CustomerID": 367,
@@ -192,7 +204,8 @@
     "Street": "18 Liverpool Street",
     "CityID": 1009,
     "PostCode": 620,
-    "CountryID": 1005
+    "CountryID": 1005,
+    "Goals": 1
   },
   {
     "CustomerID": 368,
@@ -207,7 +220,8 @@
     "Street": "20 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 7
   },
   {
     "CustomerID": 369,
@@ -222,7 +236,8 @@
     "Street": "23 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 4
   },
   {
     "CustomerID": 370,
@@ -237,7 +252,8 @@
     "Street": "21 Liverpool Street",
     "CityID": 1006,
     "PostCode": 205,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 1
   },
   {
     "CustomerID": 371,
@@ -252,7 +268,8 @@
     "Street": "25 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 0
   },
   {
     "CustomerID": 372,
@@ -267,7 +284,8 @@
     "Street": "27 Liverpool Street",
     "CityID": 1005,
     "PostCode": 101,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 8
   },
   {
     "CustomerID": 373,
@@ -282,7 +300,8 @@
     "Street": "28 Liverpool Street",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 2
   },
   {
     "CustomerID": 374,
@@ -297,7 +316,8 @@
     "Street": "38 Liverpool Street",
     "CityID": 1008,
     "PostCode": 40,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 1
   },
   {
     "CustomerID": 375,
@@ -312,7 +332,8 @@
     "Street": "58 Liverpool Street",
     "CityID": 1008,
     "PostCode": 50,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 1
   },
   {
     "CustomerID": 376,
@@ -327,7 +348,8 @@
     "Street": "8 Liverpool Street",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 110
   },
   {
     "CustomerID": 377,
@@ -342,7 +364,8 @@
     "Street": "50 Liverpool Street",
     "CityID": 1007,
     "PostCode": 119,
-    "CountryID": 1008
+    "CountryID": 1008,
+    "Goals": 1
   },
   {
     "CustomerID": 378,
@@ -357,7 +380,8 @@
     "Street": "2 Liverpool Street",
     "CityID": 1007,
     "PostCode": 119,
-    "CountryID": 1008
+    "CountryID": 1008,
+    "Goals": 2
   },
   {
     "CustomerID": 379,
@@ -372,7 +396,8 @@
     "Street": "21 Liverpool Street",
     "CityID": 1007,
     "PostCode": 199,
-    "CountryID": 1008
+    "CountryID": 1008,
+    "Goals": 21
   },
   {
     "CustomerID": 380,
@@ -387,7 +412,8 @@
     "Street": "20 Liverpool Street",
     "CityID": 1009,
     "PostCode": 620,
-    "CountryID": 1005
+    "CountryID": 1005,
+    "Goals": 20
   },
   {
     "CustomerID": 381,
@@ -402,7 +428,8 @@
     "Street": "9 Liverpool Street",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 9
   },
   {
     "CustomerID": 382,
@@ -417,7 +444,8 @@
     "Street": "8 Liverpool Street",
     "CityID": 1008,
     "PostCode": 50,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 8
   },
   {
     "CustomerID": 383,
@@ -432,7 +460,8 @@
     "Street": "17 Liverpool Street",
     "CityID": 1006,
     "PostCode": 205,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 17
   },
   {
     "CustomerID": 384,
@@ -447,7 +476,8 @@
     "Street": "1 Midway Avenue",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 70
   },
   {
     "CustomerID": 385,
@@ -462,7 +492,8 @@
     "Street": "1 Midway Avenue",
     "CityID": 1006,
     "PostCode": 205,
-    "CountryID": 1007
+    "CountryID": 1007,
+    "Goals": 71
   },
   {
     "CustomerID": 386,
@@ -470,14 +501,15 @@
     "CreatedBy": "Daniel",
     "LastModified": "2016-12-02T09:50:03.29",
     "LastModifiedBy": "Daniel",
-    "FirstName": "Harry",
-    "LastName": "Lim",
+    "FirstName": "Fernando",
+    "LastName": "Torres",
     "DOB": "2016-12-02T09:50:03.29",
     "Active": true,
-    "Street": "10 Midway Avenue",
+    "Street": "9 Midway Avenue",
     "CityID": 1008,
     "PostCode": 50,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 67
   },
   {
     "CustomerID": 387,
@@ -492,7 +524,8 @@
     "Street": "2 Midway Avenue",
     "CityID": 1008,
     "PostCode": 30,
-    "CountryID": 1006
+    "CountryID": 1006,
+    "Goals": 75
   },
   {
     "CustomerID": 388,
@@ -507,6 +540,7 @@
     "Street": "3 Midway Avenue",
     "CityID": 1007,
     "PostCode": 119,
-    "CountryID": 1008
+    "CountryID": 1008,
+    "Goals": 10
   }
 ]
